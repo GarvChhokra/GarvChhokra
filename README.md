@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Garv Chhokra</h1>
 <h3 align="center">Undergraduate Student Learning Artificial Intelligence</h3>
 
-- 🔭 I’m currently doing coop as **I&IT Technology Analyst/Developer at MPBSD**
+- 🔭 I’m currently doing coop as **I&IT Technology Analyst/Developer at Ministry of Public and Business Service Delivery, Govenment of Ontario**
 
-- 🌱 I’m currently learning **AI concepts**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [garvchhokra.com](garvchhokra.com)
-
-- 💬 Ask me about **React, Machine Learning**
 
 - 📫 How to reach me **garv.chhokra7@gmail.com**
 
