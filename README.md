@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garv Chhokra</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alakh0703&label=Profile%20views&color=0e75b6&style=flat" alt="alakh0703" /> </p>
 <h3 align="center">Undergraduate Student Learning Artificial Intelligence</h3>
 
 - 🔭 I’m currently doing coop as **I&IT Technology Analyst/Developer at Ministry of Public and Business Service Delivery, Govenment of Ontario**
