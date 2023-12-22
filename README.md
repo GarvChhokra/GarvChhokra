@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [garvchhokra.com](garvchhokra.com)
+- 👨‍💻 All of my projects are available at [garvchhokra.com](https://garvchhokra.com/)
 
 - 📫 How to reach me **garv.chhokra7@gmail.com**
 
-- 📄 Know about my experiences [garvchhokra.com](garvchhokra.com)
+- 📄 Know about my experiences [garvchhokra.com](https://garvchhokra.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
