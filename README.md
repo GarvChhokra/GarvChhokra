@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **garv.chhokra7@gmail.com**
 
-- 📄 Know about my experiences [garvchhokra.com](https://garvchhokra.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garvchhokra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvchhokra" height="30" width="40" /></a>
