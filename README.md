@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garv Chhokra</h1>
 <h3 align="center">Undergraduate Student Learning Artificial Intelligence</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GarvChhokra&label=Profile%20views&color=0e75b6&style=flat" alt="GarvChhokra" /> </p>
 - 🔭 I’m currently doing coop as **I&IT Technology Analyst/Developer at Ministry of Public and Business Service Delivery, Govenment of Ontario**
 
 - 🌱 I’m currently learning **Tensorflow**
