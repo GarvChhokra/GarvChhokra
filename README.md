@@ -15,7 +15,7 @@
 
 - 👯 Open to collaborations on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [garvchhokra.com](https://garvchhokra.com/#Projects)
+- 👨‍💻 All of my projects are available at [GarvChhokra/Repository](https://github.com/GarvChhokra?tab=repositories)
 
 - 📫 Reach me at **garv.chhokra7@gmail.com**
 <br>
