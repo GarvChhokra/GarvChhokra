@@ -76,9 +76,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvchhokra&show_icons=true&locale=en&layout=compact" alt="garvchhokra" />
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=garvchhokra&show_icons=true&locale=en" alt="garvchhokra Stats" />
-</p> -->
+</p>
 
 <br>
 <h2 align="center">Let's Connect!</h2>
