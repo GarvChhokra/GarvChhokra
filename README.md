@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQG6AM7TyvLbpg/profile-displaybackgroundimage-shrink_350_1400/0/1703208305160?e=1711584000&v=beta&t=yni2RSOd61chgkD70knDR2oAufvMfkK07Y_Nt6Labt0" alt="GarvChhokra Banner" />
+  <img src="https://media.licdn.com/dms/image/D4E16AQG6AM7TyvLbpg/profile-displaybackgroundimage-shrink_350_1400/0/1703208305160?e=1722470400&v=beta&t=4Qllor8JtqY8YMzMCzxuq5dF4RvQxIGwshcDhakIWzY" alt="GarvChhokra Banner" />
 </p>
 
-- 🔭 Currently working as an **I&IT Technology Analyst/Developer at Ministry of Public and Business Service Delivery - Government of Ontario**
+- 🔭 Currently working as an **Software Development at Loblaw**
 
 - 🌱 Learning and experimenting with **TensorFlow** for exciting AI projects
 
