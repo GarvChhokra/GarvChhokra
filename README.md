@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=GarvChhokra&label=Profile%20views&color=0e75b6&style=flat" alt="GarvChhokra" />
 </p>
 
-<p align="center">
+<!---<p align="center">
   <img src="https://www.linkedin.com/in/garvchhokra/overlay/background-image/" alt="GarvChhokra Banner" />
-</p>
+</p>-->
 
 - 🔭 Currently working as an **Software Development focusing on ML and GEN AI at Loblaw**
 
