@@ -133,5 +133,5 @@
 
 ---
 
-<p align="center">⭐️ Feel free to explore more on my <a href="https://garvchhokra.com/">portfolio website</a>! ⭐️</p>
+<p align="center">⭐️ Feel free to explore more on my <a href="https://iamgarv.netlify.app/">portfolio website</a>! ⭐️</p>
 
