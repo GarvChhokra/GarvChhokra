@@ -9,7 +9,7 @@
   <img src="https://www.linkedin.com/in/garvchhokra/overlay/background-image/" alt="GarvChhokra Banner" />
 </p>-->
 
-- 🔭 Currently working as an **Software Development focusing on ML and GEN AI at Government of Ontario**
+- 🔭 Currently working as a **Software Developer focusing on ML and GEN AI at Government of Ontario**
 
 - 🌱 Continuously enhancing my skills in **TensorFlow, Pytorch**, Deep Learning, .NET, and AI Solutions
 
