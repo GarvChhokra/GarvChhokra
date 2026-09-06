@@ -5,19 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=GarvChhokra&label=Profile%20views&color=0e75b6&style=flat" alt="GarvChhokra" />
 </p>
 
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  Machine Learning Engineer building production-grade ML and GenAI systems.
-  <br/>
-  Experienced in Agentic AI, RAG, LLMOps, MLOps, and large-scale data pipelines.
-  <br/>
-  Currently building AI systems and ML infrastructure at Loblaw.
-</p>
-<!---<p align="center">
-  <img src="https://www.linkedin.com/in/garvchhokra/overlay/background-image/" alt="GarvChhokra Banner" />
-</p>-->
-
 - 🔭 Currently working as a **Machine Learning Engineer at Loblaw**
 
 - 🌱 Continuously enhancing my skills in **TensorFlow, Pytorch**, Deep Learning, and AI Solutions
