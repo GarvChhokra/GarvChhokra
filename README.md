@@ -9,9 +9,9 @@
   <img src="https://www.linkedin.com/in/garvchhokra/overlay/background-image/" alt="GarvChhokra Banner" />
 </p>-->
 
-- 🔭 Currently working as a **Software Developer focusing on ML and GEN AI at Government of Ontario**
+- 🔭 Currently working as a **Machine Learning Engineer at Loblaw**
 
-- 🌱 Continuously enhancing my skills in **TensorFlow, Pytorch**, Deep Learning, .NET, and AI Solutions
+- 🌱 Continuously enhancing my skills in **TensorFlow, Pytorch**, Deep Learning, and AI Solutions
 
 - 👯 Open to collaborations on **AI/ML** Projects
 
