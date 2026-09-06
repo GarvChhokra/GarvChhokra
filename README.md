@@ -1,10 +1,19 @@
 <h1 align="center">Hi there! 👋 I'm Garv Chhokra</h1>
-<h3 align="center">Machine Learning Engineer | AI & GenAI | TensorFlow Certified | NLP & Deep Learning Specialist</h3>
+<h3 align="center">Machine Learning Engineer | Agentic AI | LLMOps | MLOps | GCP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GarvChhokra&label=Profile%20views&color=0e75b6&style=flat" alt="GarvChhokra" />
 </p>
 
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Machine Learning Engineer building production-grade ML and GenAI systems.
+  <br/>
+  Experienced in Agentic AI, RAG, LLMOps, MLOps, and large-scale data pipelines.
+  <br/>
+  Currently building AI systems and ML infrastructure at Loblaw.
+</p>
 <!---<p align="center">
   <img src="https://www.linkedin.com/in/garvchhokra/overlay/background-image/" alt="GarvChhokra Banner" />
 </p>-->
@@ -147,4 +156,6 @@
 ---
 
 <p align="center">⭐️ Feel free to explore more on my <a href="https://iamgarv.netlify.app/">portfolio website</a>! ⭐️</p>
-
+<p align="center">
+  <i>Building intelligent systems that move from experimentation to production.</i> 🚀
+</p>
