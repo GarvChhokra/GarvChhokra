@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Garv Chhokra</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer | AI & GenAI | TensorFlow Certified | NLP & Deep Learning Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GarvChhokra&label=Profile%20views&color=0e75b6&style=flat" alt="GarvChhokra" />
